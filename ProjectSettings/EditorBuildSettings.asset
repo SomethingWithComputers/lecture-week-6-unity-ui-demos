@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HUDThatRetainsPixelSize.unity
+    guid: 91201f18470cb4e82bc28fb33149fe55
+  - enabled: 1
+    path: Assets/Scenes/SimpleButtonScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/WorldSpaceHUD.unity
+    guid: 5db535056f75847b7a88d522101f476f
+  - enabled: 1
+    path: Assets/Scenes/HUDWithParentElement.unity
+    guid: bafd9df77021045499846ca8abbf030a
+  - enabled: 1
+    path: Assets/Scenes/SimpleMenuWithNonScalingButton.unity
+    guid: a8e2fb691e0624407b7e3a72bc47be7d
+  - enabled: 1
+    path: Assets/Scenes/HUDWithParentElementAndInteractions.unity
+    guid: e42110b9068744d95bdee5c2821733c1
+  - enabled: 1
+    path: Assets/Scenes/SimpleMenuWithScalingButtons.unity
+    guid: 6fe42b0b860c544a0b62e10cbd337d7d
+  - enabled: 1
+    path: Assets/Scenes/HUDThatScales.unity
+    guid: be8fdd6c061e34a6fb710dc549cfdb30
   m_configObjects: {}
